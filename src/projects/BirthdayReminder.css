@@ -1,0 +1,48 @@
+.root {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+.day {
+  display: block;
+  width: 90vw;
+  max-width: 450px;
+  background-color: bisque;
+  border-radius: 5px;
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.day-heading {
+  text-align: left;
+  font-size: 2rem;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+button.btn {
+  position: relative;
+  cursor: pointer;
+  width: 100%;
+  left: -7px;
+  background-color: teal;
+  color: white;
+  padding: 0.5rem 1.5rem;
+  border: none;
+  font-size: 1.4rem;
+  border-radius: 7px;
+  margin-top: 10px;
+  letter-spacing: 5;
+  transition: 0.2s all ease;
+  border: solid 2px transparent;
+}
+
+button.btn:hover {
+  /* background-color: rgb(69, 212, 212); */
+  background-color: transparent;
+  color: black;
+  border: solid 2px black;
+}
