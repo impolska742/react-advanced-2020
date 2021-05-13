@@ -1,5 +1,5 @@
 import React from "react";
-import Setup from "./tutorial/6-useReducer/setup";
+import Setup from "./projects/BirthdayReminder";
 
 function App() {
   return (

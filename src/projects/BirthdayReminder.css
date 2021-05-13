@@ -1,9 +1,14 @@
+body {
+  background-color: teal;
+}
+
 .root {
   box-sizing: border-box;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 80vh;
+  margin: 100px 0;
 }
 
 .day {
@@ -45,4 +50,45 @@ button.btn:hover {
   background-color: transparent;
   color: black;
   border: solid 2px black;
+}
+
+div.dog {
+  display: flex;
+  margin: 20px 0;
+  padding: 10px;
+  border-radius: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+div.dog:hover {
+  background-color: white;
+}
+img.dog__img {
+  width: 20%;
+  border-radius: 50%;
+  flex: 0.2;
+}
+
+div.dog__info {
+  text-align: left;
+  flex: 0.5;
+}
+
+button.dog__remove {
+  color: white;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  max-width: 50px;
+  font-size: 1.35rem;
+  min-height: 50px;
+  flex: 0.3;
+  background-color: teal;
+}
+
+button.dog__remove:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  transition: 200ms all ease;
 }
