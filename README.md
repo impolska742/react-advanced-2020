@@ -6,7 +6,7 @@
 
 #### useEffect and Conditional Rendering
 
-2. Tours
+2. Tours [DEMO](https://tours-project.netlify.app/)
 3. Reviews
 4. Accordion
 5. Menu
