@@ -8,7 +8,7 @@
 
 2. Tours => [DEMO](https://tours-project.netlify.app/)
 3. Reviews => [DEMO](https://reviews-vaibhav.netlify.app/)
-4. Accordion
+4. Accordion => [DEMO](https://questions-card.netlify.app/)
 5. Menu
 6. Tabs
 7. Slider
