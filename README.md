@@ -10,12 +10,12 @@
 3. Reviews => [DEMO](https://reviews-vaibhav.netlify.app/)
 4. Accordion => [DEMO](https://questions-card.netlify.app/)
 5. Menu
-6. Tabs
+6. Tabs => [DEMO](tabs-project-vaibhav.netlify.app)
 7. Slider
 
 #### Forms
 
-8. Lorem Ipsum Generator =? [DEMO](https://lorem-ipsum-generator-vaibhav.netlify.app/)
+8. Lorem Ipsum Generator => [DEMO](https://lorem-ipsum-generator-vaibhav.netlify.app/)
 9. Color Shades Generator
 10. Grocery Bud
 
