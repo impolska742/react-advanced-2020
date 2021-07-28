@@ -16,7 +16,7 @@
 #### Forms
 
 8. Lorem Ipsum Generator => [DEMO](https://lorem-ipsum-generator-vaibhav.netlify.app/)
-9. Color Shades Generator
+9. Color Shades Generator => [DEMO](https://shade-card-generator.netlify.app/)
 10. Grocery Bud
 
 #### useRef
